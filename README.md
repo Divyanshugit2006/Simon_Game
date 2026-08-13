@@ -12,6 +12,11 @@ A simple and interactive **Simon Memory Game** built using **HTML, CSS, and Java
 * ✅ **Sequence Validation:** Checks each user input against the generated sequence.
 * ❌ **Game Over Detection:** Ends the game when an incorrect button is clicked and displays the score.
 
+## 📸 Preview
+
+![Simon Game](images/11.png)
+![Simon Game](images/12.png)
+
 ## 🛠️ Tech Stack
 
 | Technology       | Purpose                                                         |
